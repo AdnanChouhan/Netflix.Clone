@@ -254,3 +254,16 @@ footer {
     inline-size: 120px;
   }
 }
+
+@media (max-width: 768px) {
+  .movie img {
+    width: 150px;
+  }
+}
+
+@media (max-width: 480px) {
+  .movie img {
+    width: 100px;
+  }
+}
+
